@@ -1,3 +1,3 @@
-# Data-Analysis
+# Data-Visualization
 
-Practice Exercises of Data Analysis Course - HCMUS
+Practice Exercises of Data Visualization Course - HCMUS
